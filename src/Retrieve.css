@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(235, 232, 232);
+}
+
+.Retrieve {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.Retrieve-list {
+    list-style-type: none;
+    text-transform: capitalize;
+}

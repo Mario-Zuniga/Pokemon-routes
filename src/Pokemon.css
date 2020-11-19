@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(235, 232, 232);
+}
+
+.Pokemon {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -150px;
+    width: 300px;
+	padding: 10px;
+    box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+    background-color: rgb(235, 232, 232);
+	text-align: center;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.Pokemon-name {
+    text-transform: uppercase;
+    background-color: white;
+}
+
+.Pokemon-img {
+    background-color: white;
+}
+
+.Pokemon-info {
+    background-color: white;
+    font-size: 1.1rem;
+}
